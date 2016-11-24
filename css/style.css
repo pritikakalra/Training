@@ -1,0 +1,72 @@
+body
+{
+	background-color:powderblue;
+	
+}
+header
+{
+	position: fixed;
+	
+}
+nav li
+{
+	font-size: 16px;
+	display:inline;
+	padding-right: 15px;
+}
+
+ul a
+{
+	text-decoration: none;
+	color:black;
+	font-weight:bold;
+
+
+}
+ul a:hover
+{
+	font-size:30px;
+}
+
+.main
+{
+	margin-top: 90px;
+}
+.main img
+{
+	width:100px;
+	height: 200px;
+}
+.primary
+{
+	margin-top: 30px;
+	font-family: sans-serif;
+	font-size: 16;
+	font-weight: bold;
+}
+.img1
+{
+	width: 960px;
+	height:503px;
+}
+
+
+footer{
+	text-align: center;
+	margin-top: 20px;
+	font-weight:bold;
+}
+
+.wrap2,.wrap3
+{
+	font-family: sans-serif;
+	font size:20px;
+	margin-top: 10px;
+	font-weight:bold;
+
+}
+footer li
+{
+	display:inline;
+	font-size: 12px;
+}
